@@ -54,7 +54,6 @@
   },
   "require-dev": {
     "proklung/bitrix-phpunit-testing-tools": "^1.4",
-    "icanhazstring/composer-unused": "^0.7.5"
   },
   "extra": {
     "installer-paths": {
@@ -65,7 +64,6 @@
     "allow-plugins": {
       "phpstan/extension-installer": true,
       "composer/installers": true,
-      "icanhazstring/composer-unused": true,
       "composer/package-versions-deprecated": true
     }
   }
